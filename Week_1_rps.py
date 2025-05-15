@@ -31,5 +31,5 @@ def get_winner(user, computer):
 
 # announce winner
 result = get_winner(user_choice, computer_choice)
-print(result, 'best of 3?') 
+print(result) 
 
